@@ -1,6 +1,6 @@
 # Traffic Lights Controller
 
-![My Image](https://raw.githubusercontent.com/JackShkifati28/JackShkifati28/main/CompE1.jpeg)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/Trafficlight.png)
 
 ## Objective
 The goal of this project is to create Verilog code that embeds a finite state machine that regulates traffic lights at an intersection.
@@ -21,7 +21,7 @@ The following intersection has two streets labeled street A and street B. For bo
 - TA: Traffic light A
 - TB: Traffic light B
 
-![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/CompE1.jpeg)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/finitestatemachine.png)
 
 
 
