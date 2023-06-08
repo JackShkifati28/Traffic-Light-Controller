@@ -39,6 +39,8 @@ Finite State Machine Circuit:
 
 ## Table
 
+![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/Table.png)
+
 
 ## Simulation
 ### States: TA & STAP
