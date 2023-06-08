@@ -1,5 +1,6 @@
 # Traffic Lights Controller
 
+![My Image](https://raw.githubusercontent.com/JackShkifati28/JackShkifati28/main/CompE1.jpeg)
 
 ## Objective
 The goal of this project is to create Verilog code that embeds a finite state machine that regulates traffic lights at an intersection.
