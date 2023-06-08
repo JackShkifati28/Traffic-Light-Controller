@@ -44,17 +44,17 @@ Finite State Machine Circuit:
 
 ## Simulation
 ### States: TA & STAP
-![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/table.png)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/101.png)
 
 We begin in state TA, which is our reset state. That instance, traffic light B will be orange for 10 seconds before turning red, while traffic light A will become red. After 10 seconds, we switch to STAP mode, where traffic light B is red and traffic light A is green for 60 seconds.
 
 ### States: TB & STBP
-![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/table.png)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/102.png)
 
 After 60 seconds, we transition to state TB due to the sensor detecting a car at street B. We stay at TB for 10 seconds before switching to state STBP. This indicates that traffic light at street A will be Orange for 10 seconds before turning Red. Once, the 10 seconds are up we go to state STBP. At STBP the traffic light at street B will turn green and red for traffic light at A for a duration of 30 seconds.
 
 ### State: STEP & TA
-![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/table.png)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/103.png)
 After 30 seconds we go from STEP back again to TA, as shown in the waveform above which demonstrates a full cycle.
 
 ## Conclusion
