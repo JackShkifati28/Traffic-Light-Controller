@@ -27,6 +27,8 @@ The following intersection has two streets labeled street A and street B. For bo
 
 
 Finite State Machine Circuit:
+![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/Device.png)
+
 1. GA: Green for traffic light A
 2. GB: Green for traffic light B
 3. RA: Red for traffic light A
