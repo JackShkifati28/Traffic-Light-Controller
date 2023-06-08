@@ -39,7 +39,7 @@ Finite State Machine Circuit:
 
 ## Table
 
-![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/Table.png)
+![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/table.png)
 
 
 ## Simulation
