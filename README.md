@@ -27,7 +27,6 @@ The following intersection has two streets labeled street A and street B. For bo
 
 
 Finite State Machine Circuit:
-![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/Device.png)
 
 1. GA: Green for traffic light A
 2. GB: Green for traffic light B
@@ -36,9 +35,10 @@ Finite State Machine Circuit:
 5. OA: Orange for traffic light A
 6. OB: Orange for traffic light B
 
+![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/Device.png)
+
 ## Table
-Output STAP STBP TA TB
-GA 1 0 0 0 GB 0 1 0 0 RA 0 1 1 0 RB 1 0 0 1 OA 0 0 0 1 OB 0 0 1 0
+
 
 ## Simulation
 ### States: TA & STAP
