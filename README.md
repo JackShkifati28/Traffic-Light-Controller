@@ -21,6 +21,9 @@ The following intersection has two streets labeled street A and street B. For bo
 - TA: Traffic light A
 - TB: Traffic light B
 
+![My Image](https://raw.githubusercontent.com/JackShkifati28/Traffic-Light-Controller/main/images/CompE1.jpeg)
+
+
 
 
 Finite State Machine Circuit:
